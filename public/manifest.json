@@ -1,6 +1,8 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Stable Diffusion",
+  "name": "Stable Diffusion using hugging face api",
+  "author":"Aswin Lal M",
+  "description":"A stable diffusion image creation website using api from hugging face. Try out and see what you can create using prompt",
   "icons": [
     {
       "src": "favicon.ico",
